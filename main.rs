@@ -1,4 +1,4 @@
-// Hamuda (2017) algorithm for crop detection in Rust programming language
+// Hamuda et al. (2017) crop detection algorithm adaptation for Rust didactic project. DOI: https://doi.org/10.1016/j.compag.2016.11.021
 // André L. R. Pessina
 
 // import crates
